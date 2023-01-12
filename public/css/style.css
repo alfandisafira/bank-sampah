@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'MyWebFont';
+    src: url('Segoe UI.ttf');
+}
+
+* {
+    font-family: 'MyWebFont', sans-serif;
+}
+
+body {
+    background-color: #d8e6a4;
+}
+
+main {
+    margin-top: 100px;
+}
+
+.container {
+    border-radius: 10px;
+}
+
+.centered {
+    margin-top: 15vh;
+}
+
+span a {
+    color:#333;
+    text-decoration: none;
+}
+
+span a:hover {
+    color:rgb(189, 189, 189);
+    text-decoration: none;
+}
+
+.login{
+    background-color: #d8e6a4;
+}
+
+h1 .beranda {
+    background-color: green;
+}
